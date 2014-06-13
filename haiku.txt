@@ -1,3 +1,7 @@
 this sad rainy day
 forcing me to be inside
 i'd rather it were sunny
+<<<<<<< HEAD
+=======
+oh no!
+>>>>>>> Extra_Line
